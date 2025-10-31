@@ -1,4 +1,2 @@
 # odin-recipes
-    The odin Project is a professional project base on a specific
-    roadmap that will allow you , to achieve your dream to become
-    a professional Web Developer. 
+    This is my fist mini project(Odin receipes) of odin Project that help to practice the basis of HTML.
